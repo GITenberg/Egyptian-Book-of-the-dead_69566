@@ -1,0 +1,29 @@
+_repo: Egyptian-Book-of-the-dead_69566
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Naville, E.
+    gutenberg_agent_id: '55322'
+    url: http://www.gutenberg.org/2009/agents/55322
+  - agent_name: Renouf, P. le Page
+    gutenberg_agent_id: '55321'
+    url: http://www.gutenberg.org/2009/agents/55321
+description: ''
+gutenberg_issued: '2022-12-17'
+identifiers:
+  gutenberg: '69566'
+language: en
+pgterms:marc905: 20170430125725renouf
+pgterms:marc906: '1904'
+pgterms:marc907: GB
+production_note: Richard Tonsing, KD Weeks and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United Kingdom: Society of Biblical Archaeology,1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Egyptian Book of the dead
+url: http://www.gutenberg.org/ebooks/69566
